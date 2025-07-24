@@ -1,0 +1,14 @@
+"C:\Users\userabc\AppData\Roaming\Google\AndroidStudio2025.1.1\plugins" -Name > "$env:USERPROFILE\Desktop\plugins_list.txt"
+
+
+AICommits
+dart
+flutter-idea
+flutter-intellij
+flutter-riverpod-snippets
+flutter-snippets
+InlineProblems
+InspectionLens
+provider_template
+settingsSync
+GerryThemes.jar
