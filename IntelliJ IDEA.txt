@@ -12,3 +12,4 @@ InspectionLens
 provider_template
 settingsSync
 GerryThemes.jar
+Bracket Block
